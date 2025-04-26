@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+.rose {
+  color: pink;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 4rem;
+  text-shadow: 0 0 10px;
+}
+
+.blanc {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 4rem;
+  text-shadow: 0 0 10px;
+}
+
+.pink {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 3rem;
+  text-shadow: 0 0 10px;
+}
+
+.white {
+  color: pink;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 3rem;
+  text-shadow: 0 0 10px;
+}
+
+.encadrement {
+  border: pink solid 10px;
+  height: 250px;
+  width: 270px;
+}
+
+.kitty {
+  width: 80px;
+  display: block;
+}
+
+.encadrement3 {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  margin: 0;}
+
+.encadrements {
+  display: flex;
+}
