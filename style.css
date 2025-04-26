@@ -51,3 +51,11 @@ p {
 .encadrements {
   display: flex;
 }
+
+.insta {
+height: 100%;
+}
+
+.encadrement img {
+height: 100%;
+}
